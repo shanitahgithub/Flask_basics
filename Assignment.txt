@@ -1,0 +1,25 @@
+What is Flask?
+-Flask is a light weight and extensive web framework for python.
+-It is designed to be simple to use making a popular choice for building
+web apps and APIs.
+
+Features of Flask
+-Its light weight
+-Micro framework
+-Has built in features such as Routing,Request handling,Templating.
+
+Applications of Flask
+Web Application
+Websites
+API development
+
+Prerequisites
+Confirm python
+Confirm IDE(Visual Studio Code)
+
+Meaning of _name_ variable
+Is used to determine whether the python script is being run
+as the main program or is being imported as amodule into another script.
+And by default is always built in as a special variable in python.
+The variable always depends on how the script is being executed.
+Flask uses it to know where to look for templates and satic files.
